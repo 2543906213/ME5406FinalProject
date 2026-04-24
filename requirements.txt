@@ -1,0 +1,17 @@
+# Core Simulation and Physics
+isaacsim-extscache-kit==4.0.0
+isaacsim-extscache-physics==4.0.0
+
+# Deep Learning Framework
+torch>=2.0.0
+torchvision
+
+# Reinforcement Learning & Math
+numpy>=1.23.0
+scipy
+matplotlib
+
+# Experiment Tracking & Utilities
+tensorboard
+tqdm
+pyyaml

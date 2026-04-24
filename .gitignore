@@ -1,0 +1,18 @@
+# 忽略所有 PyTorch 权重文件
+*.pth
+*.pt
+*.ckpt
+
+# 忽略所有 TensorFlow/Keras 权重文件
+*.h5
+*.weights
+checkpoint/
+
+# 忽略日志文件
+events.out.tfevents.*
+*.log
+
+# 忽略 Isaac Lab 或其他仿真器生成的自动保存文件夹
+logs/
+outputs/
+EOF
